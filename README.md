@@ -1,9 +1,7 @@
 # Hello, I'm Anthony
 <a href="https://linkedin.com/in/anthonyavalera"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I have technical training from CompTIA Security+ (knowledge from A+ and Network+) and Coursera’s Google Cybersecurity Professional Certificate program, which has developed my skills in analysis, Python, SQL, Linux, SIEM tools, and incident response. My prior experience within Fortune 500 companies such as Amazon, Home Depot, and Vivint has developed my teamwork, leadership, problem-solving, and interpersonal skills. Within these companies, I’ve achieved performance awards and promotions. I am seeking a more challenging assignment for the development of a long-term career in the cybersecurity industry.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
