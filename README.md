@@ -4,9 +4,8 @@
 I have technical training from CompTIA Security+ (knowledge from A+ and Network+) and Coursera’s Google Cybersecurity Professional Certificate program, which has developed my skills in analysis, Python, SQL, Linux, SIEM tools, and incident response. My prior experience within Fortune 500 companies such as Amazon, Home Depot, and Vivint has developed my teamwork, leadership, problem-solving, and interpersonal skills. Within these companies, I’ve achieved performance awards and promotions. I am seeking a more challenging assignment for the development of a long-term career in the cybersecurity industry.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in selling security and working for Amazon has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
