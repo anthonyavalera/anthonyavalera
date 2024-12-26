@@ -28,6 +28,7 @@ My journey in selling security and working for Amazon has led me to develop a pa
     <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-5F5F5F?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=netcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nslookup-000000?&style=for-the-badge&logo=nslookup&logoColor=white" />
 </div>
 
 ### Endpoint
