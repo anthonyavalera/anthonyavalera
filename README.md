@@ -13,10 +13,11 @@ My journey in selling security and working for Amazon has led me to develop a pa
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| System Configuration Gap Analysis         | CompTIA Security+ Lab|
+| Security Control Configuration      | CompTIA Security+ Lab|
+| Social Engineering with SET                  | CompTIA Security+ Lab|
+| Storage Encryption | CompTIA Security+ Lab|
+| Hashing and Salting | CompTIA Security+ Lab|
 
 ## Tools
 
@@ -52,5 +53,4 @@ My journey in selling security and working for Amazon has led me to develop a pa
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- CompTIA Security+ Lab
