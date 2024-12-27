@@ -11,8 +11,6 @@ My journey in selling security and working for Amazon has led me to develop a pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | System Configuration Gap Analysis         | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Security Control Configuration      | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Social Engineering with SET                  | <a href="https://google.com">CompTIA Security+ Lab</a>|
