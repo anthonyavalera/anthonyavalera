@@ -21,8 +21,8 @@ My journey in selling security and working for Amazon has led me to develop a pa
 | Remote Access | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | IPSec Tunneling | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Containers | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Virtualization <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Backup Implementation |
+| Virtualization | <a href="https://google.com">CompTIA Security+ Lab</a>|
+| Backup Implementation | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Drive Sanitization | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | SQLi Exploitation and Detection | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Threat Feeds | <a href="https://google.com">CompTIA Security+ Lab</a>|
