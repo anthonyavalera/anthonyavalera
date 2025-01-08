@@ -74,4 +74,4 @@ My journey in selling security and working for Amazon has led me to develop a pa
 </div>
 
 ## Projects
-- CompTIA Security+ Lab
+- <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-/tree/Perform-Gap-Analysis">CertMaster Labs for Security+ (Exam SY0-701)</a>
