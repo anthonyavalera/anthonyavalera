@@ -25,7 +25,7 @@ My journey in selling security and working for Amazon has led me to develop a pa
 | Backup Implementation | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Drive Sanitization | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | SQLi Exploitation and Detection | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Threat Feeds | <a href="https://google.com">CompTIA Security+ Lab</a>|
+| Threat Feeds | <a href="https://google.com">CertMaster Labs for Security+ (Exam SY0-701)</a>|
 | Vulnerability Scans | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Security Baselines | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Firewall Implementation | <a href="https://google.com">CompTIA Security+ Lab</a>|
