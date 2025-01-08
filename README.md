@@ -11,7 +11,7 @@ My journey in selling security and working for Amazon has led me to develop a pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| System Configuration Gap Analysis         | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-/tree/Perform-Gap-Analysis">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| System Configuration Gap Analysis         | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
 | Security Control Configuration      | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Social Engineering with SET                  | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Storage Encryption | <a href="https://google.com">CompTIA Security+ Lab</a>|
@@ -74,4 +74,4 @@ My journey in selling security and working for Amazon has led me to develop a pa
 </div>
 
 ## Projects
-- <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-/tree/Perform-Gap-Analysis">CertMaster Labs for Security+ (Exam SY0-701)</a>
+- <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>
