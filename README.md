@@ -26,25 +26,25 @@ My journey in selling security and working for Amazon has led me to develop a pa
 | Drive Sanitization | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
 | SQLi Exploitation and Detection | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
 | Threat Feeds | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
-| Vulnerability Scans | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Security Baselines | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Firewall Implementation | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Group Policy | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Hardening | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| DNS Filtering | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| System Monitoring Configuration | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Incident Response: Detection | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Digital Forensics | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Root Cause Analysis | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Malware Detection and Response | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| On-Path Attacks | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Playbook | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Allow Lists and Deny Lists Implementation | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Reconnaissance | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Penetration Testing | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Automation and Scripting | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Network Sniffers | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Network Incident Investigation and Remediation | <a href="https://google.com">CompTIA Security+ Lab</a>|
+| Vulnerability Scans | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Security Baselines | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Firewall Implementation | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Group Policy | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Hardening | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| DNS Filtering | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| System Monitoring Configuration | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Incident Response: Detection | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Digital Forensics | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Root Cause Analysis | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Malware Detection and Response | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| On-Path Attacks | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Playbook | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Allow Lists and Deny Lists Implementation | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Reconnaissance | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Penetration Testing | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Automation and Scripting | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Network Sniffers | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Network Incident Investigation and Remediation | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
 
 ## Tools
 
