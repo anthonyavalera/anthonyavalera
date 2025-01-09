@@ -12,20 +12,20 @@ My journey in selling security and working for Amazon has led me to develop a pa
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | System Configuration Gap Analysis         | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
-| Security Control Configuration      | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Social Engineering with SET                  | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Storage Encryption | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Hashing and Salting | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Passsword Security Management | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Permission Management | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Remote Access | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| IPSec Tunneling | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Containers | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Virtualization | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Backup Implementation | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Drive Sanitization | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| SQLi Exploitation and Detection | <a href="https://google.com">CompTIA Security+ Lab</a>|
-| Threat Feeds | <a href="https://google.com">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Security Control Configuration      | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Social Engineering with SET                  | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Storage Encryption | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Hashing and Salting | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Passsword Security Management | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Permission Management | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Remote Access | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| IPSec Tunneling | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Containers | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Virtualization | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Backup Implementation | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Drive Sanitization | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| SQLi Exploitation and Detection | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
+| Threat Feeds | <a href="https://github.com/anthonyavalera/CertMaster-Labs-for-Security-Exam-SY0-701-">CertMaster Labs for Security+ (Exam SY0-701)</a>|
 | Vulnerability Scans | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Security Baselines | <a href="https://google.com">CompTIA Security+ Lab</a>|
 | Firewall Implementation | <a href="https://google.com">CompTIA Security+ Lab</a>|
